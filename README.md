@@ -122,13 +122,4 @@ This graduation project was built by:
 - Shady Adel
 - Mohamed Hosam
 
-## License & contact
-- License: Add your chosen license here (e.g., MIT). If you want, I can add a recommended license file.
-- Contact / Project lead: Nadine Khaled (repository owner)
-
----
-
-If you want, I can:
-- Update the repository README.md directly with this content,
-- Add a bilingual (English + Arabic) version,
-- Or tailor the Installation and Backend sections with exact commands after you point me to the backend project files (project file names or a startup file in the `Back end` directory).
+ 
