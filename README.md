@@ -11,7 +11,7 @@ AI-powered platform connecting students, mentors, and companies to simplify inte
 - [Development workflow](#development-workflow)
 - [Contributing](#contributing)
 - [Team](#team)
-- [License & contact](#license--contact)
+ 
 
 ## Key features
 - CV parsing and structured resume extraction (skills, education, experience).
